@@ -43,8 +43,9 @@ END
 ```
 ---
 ## OUTPUT:
-<img width="1086" height="498" alt="image" src="https://github.com/user-attachments/assets/72e28dd2-73b7-4be9-a55b-141f3fcc554c" />
+![WhatsApp Image 2025-10-24 at 17 41 11_1126a188](https://github.com/user-attachments/assets/0e57fa73-2ff9-496e-ab66-ba12c6a92966)
+
 ---
 
 ## RESULT:
-Thus, 1 ms delay using Timer 0 in Mode 1 is generated successfully.
+Thus, 50 ms delay using Timer 0 in Mode 2 is generated successfully.
